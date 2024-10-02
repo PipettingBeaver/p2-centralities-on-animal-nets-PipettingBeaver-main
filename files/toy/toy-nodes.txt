@@ -1,0 +1,8 @@
+Node    Label
+A   label1
+B   label2
+C   label1
+D   label2
+E   label2
+F   label1
+G   label2
